@@ -8,7 +8,7 @@ import {b1, b2, b3, b4, b5} from './imports'
 
 const Blog = () => {
   return (
-    <div className='gpt3_blog section_padding'>
+    <div className='gpt3_blog section_padding' id='blog'>
       <div className='gpt3_blog-container-title'>
         <h1 className='gradient_text'>A lot is happening, We are blogging about it.</h1>
       </div>
